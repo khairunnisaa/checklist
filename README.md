@@ -3,8 +3,6 @@
 This is sample project how lumen work to handle request from client.
 This documentation is describe how Auth Work, How handling read, update, and destroy data by API request.
 
-Assalaamualaikum.
-
 Berikut hasil pekerjaan test lumen check list:
 https://github.com/khairunnisaa/checklist
 
@@ -50,12 +48,8 @@ Fitur:
     Update Bulk Checklist
     Summary Item
 
-
-## API Documentation
-https://documenter.getpostman.com/view/6379231/S1TZyFyG?version=latest
-
 ## Testing
-<img src="https://github.com/mulyawansentosa/lumenchecklist/blob/master/images/Testing.png" />
+<img src="https://github.com/khairunnisaa/checklist/blob/master/images/Testing.png" />
 ### Feature Test
 
 #### User
