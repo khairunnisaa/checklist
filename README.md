@@ -50,7 +50,6 @@ Fitur:
 
 ## Testing
 <img src="https://github.com/khairunnisaa/checklist/blob/master/images/Testing.png" />
-### Feature Test
 
 #### User
     User Can Register to Application
